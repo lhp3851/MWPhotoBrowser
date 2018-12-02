@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 #import <Photos/Photos.h>
 #import "MWPhotoProtocol.h"
+#import <SDWebImage/SDWebImageDownloader.h>
 
 // This class models a photo/image and it's caption
 // If you want to handle photos, caching, decompression
